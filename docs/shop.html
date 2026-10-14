@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#672d35"><meta name="description" content="Shop Catholic Christmas gifts at Glorykind: nativity sets, rosaries, ornaments, and neon signs.">
+  <title>The Christmas shop | Glorykind</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="styles.css">
+  <script defer src="app.js"></script>
+</head>
+<body data-page="shop" data-category="All">
+<a class="skip" href="#collection">Skip to collection</a>
+<div class="announcement">Christmas starts with Christ. <span>Christmas 2026</span></div>
+<header class="header">
+  <button class="text-button mobile-menu" id="menuToggle" aria-expanded="false" aria-controls="mainNav">Menu</button>
+  <a class="brand" href="index.html" aria-label="Glorykind home"><span class="brand-star">✧</span> glorykind <small>CATHOLIC GIFTS & CHRISTMAS</small></a>
+  <div class="header-tools"><button class="text-button" id="searchToggle" aria-label="Search products">Search</button><button class="bag-button" id="bagToggle">Bag <span id="bagCount">0</span></button></div>
+</header>
+<nav class="main-nav" id="mainNav" aria-label="Main navigation"><a href="index.html">Home</a><a href="shop.html">Shop</a><a href="our-story.html">Our story</a></nav>
+<main id="home">
+<section class="page-intro wrap"><span class="eyebrow">GLORYKIND · THE CHRISTMAS SHOP</span><h1>Find their Christmas gift.</h1><p>Browse all 50 gifts, or narrow things down by price, age, and category.</p></section>
+<div class="values"><span>Nativity sets & ornaments</span><span>Rosaries & devotional gifts</span><span>Cross lights & neon signs</span></div>
+<section class="collection wrap" id="collection" aria-labelledby="collectionTitle">
+  <div class="section-heading"><div><span class="eyebrow">TAKE A LOOK AROUND</span><h2 id="collectionTitle">The Christmas shop</h2></div><p>Browse the collection.<br>Save anything you like.</p></div>
+  <div class="catalog-tools"><div class="filters" role="group" aria-label="Filter collection"><button class="filter active" data-filter="All" aria-pressed="true">All gifts</button><button class="filter" data-filter="Nativities" aria-pressed="false">Nativities</button><button class="filter" data-filter="Tree & home" aria-pressed="false">Tree & home</button><button class="filter" data-filter="Prayer gifts" aria-pressed="false">Prayer gifts</button><button class="filter" data-filter="Lights & neon" aria-pressed="false">Lights & neon</button><button class="filter" data-filter="Family gifts" aria-pressed="false">Family gifts</button><button class="filter" data-filter="Saved" aria-pressed="false">Saved gifts</button></div><label class="age-label">Gift for <select id="ageFilter"><option value="All">All ages & homes</option><option>Children 6–12</option><option>Teens 13–17</option><option>Adults 18–64</option><option>Seniors 65+</option><option>Family home</option></select></label><label class="sort-label">Sort <select id="sort"><option value="featured">Featured</option><option value="price-asc">Price: low to high</option><option value="price-desc">Price: high to low</option><option value="age-asc">Recipient age: youngest first</option><option value="age-desc">Recipient age: oldest first</option><option value="name">Name</option></select></label></div>
+  <div class="search-row" id="searchRow"><label for="search">Search gifts</label><input type="search" id="search" placeholder="Try nativity, rosary, ornament…"><button class="text-button" id="clearSearch">Clear search</button></div>
+  <p class="catalog-note">50 gifts to browse · Prices in USD · Age groups are gift suggestions, not safety ratings</p><div class="product-grid" id="products" aria-live="polite"><p>Opening the Christmas collection…</p></div><nav class="pagination" id="pagination" aria-label="Collection pages"></nav><p id="productCount" class="fine"></p><div class="empty" id="empty" hidden><h3>No matching gifts.</h3><p>Try another search or browse the full Christmas collection.</p><button class="button primary" id="resetFilters">Show all gifts</button></div>
+</section>
+<section class="traditions" id="traditions"><div class="tradition-mark" aria-hidden="true">✧</div><div><span class="eyebrow">WHY WE’RE HERE</span><h2>There’s a reason<br>we celebrate.</h2><p>We love the decorating and the gift giving. We also want room for Jesus in all of it. That’s what this shop is about: Catholic gifts you’d be happy to give, and Christmas decorations that tell His story.</p><a class="button light" href="#giftGuide">Browse gift ideas</a></div><div class="tradition-verse"><span>“For unto us<br>a child is born.”</span><small>ISAIAH 9:6</small></div></section>
+<section class="gift-guide wrap" id="giftGuide"><span class="eyebrow">WHERE TO START</span><h2>Who are you shopping for?</h2><div class="guide-grid"><a href="shop.html?category=Nativities#collection"><span class="guide-number">01</span><h3>For the family home</h3><p>A first nativity set, or a new one for the family Christmas display.</p><span class="underlined">Explore nativities</span></a><a href="shop.html?category=Tree%20%26%20home#collection"><span class="guide-number">02</span><h3>For the Christmas tree</h3><p>Angels, ornaments, and decorations to unpack in December.</p><span class="underlined">Explore tree & home</span></a><a href="shop.html?category=Prayer%20gifts#collection"><span class="guide-number">03</span><h3>For a moment of prayer</h3><p>Rosaries and devotional pieces for someone who prays.</p><span class="underlined">Explore prayer gifts</span></a></div></section>
+<section class="faq wrap"><div><h2>Online ordering opens soon.</h2><p>Browse and save gifts while we prepare the shop.</p></div></section>
+</main>
+<footer><div class="footer-top wrap"><a class="brand" href="index.html">glorykind<small>CATHOLIC GIFTS & CHRISTMAS</small></a><p>A Catholic Christmas shop.<br>Glad you found us.</p><div><a href="shop.html">The Christmas shop</a><a href="our-story.html">About Glorykind</a><button class="text-button" data-policy="privacy">Privacy</button><button class="text-button" data-policy="shipping">Shipping & returns</button></div></div><div class="footer-bottom wrap"><span>© 2026 Glorykind</span><span>Online ordering opens soon</span><span>Thanks for stopping by.</span></div></footer>
+<dialog id="productDialog" class="product-dialog"><button class="close" data-close="productDialog" aria-label="Close product details">×</button><div id="productDetail"></div></dialog>
+<dialog id="bagDialog" class="bag-dialog"><div class="drawer-head"><h2>Your bag <span id="drawerCount"></span></h2><button class="close-inline" data-close="bagDialog" aria-label="Close bag">×</button></div><div id="bagBody"></div></dialog>
+<dialog id="checkoutDialog" class="checkout-dialog"><button class="close" data-close="checkoutDialog" aria-label="Close checkout">×</button><div id="checkoutBody"></div></dialog>
+<dialog id="policyDialog" class="policy-dialog"><button class="close" data-close="policyDialog" aria-label="Close information">×</button><div id="policyBody"></div></dialog>
+<div class="toast" id="toast" role="status"></div>
+</body></html>
+

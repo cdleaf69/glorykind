@@ -1,0 +1,989 @@
+[
+  {
+    "id": "mini-holy-family",
+    "name": "Little Holy Family",
+    "price": 16,
+    "category": "Nativities",
+    "image": "assets/mini-holy-family.webp",
+    "description": "A compact Holy Family scene for a shelf, prayer corner, or Christmas table.",
+    "details": [
+      "Resin Holy Family figure",
+      "Final dimensions to be confirmed on a sample"
+    ],
+    "tag": "Nativities",
+    "ageGroups": [
+      "Adults 18–64",
+      "Seniors 65+",
+      "Family home"
+    ],
+    "recipientAge": 65,
+    "primaryAge": "Seniors 65+"
+  },
+  {
+    "id": "outline-cross-neon",
+    "name": "Outline Cross Neon Light",
+    "price": 39,
+    "category": "Lights & neon",
+    "image": "assets/outline-cross-neon.webp",
+    "description": "An outline cross light for a bedroom wall or prayer space. A simple design if you prefer a sign without lettering.",
+    "details": [
+      "Custom LED neon-style wall sign",
+      "Cross design and complete-unit price require confirmation"
+    ],
+    "tag": "Lights & neon",
+    "ageGroups": [
+      "Teens 13–17",
+      "Adults 18–64",
+      "Family home"
+    ],
+    "recipientAge": 13,
+    "primaryAge": "Teens 13–17"
+  },
+  {
+    "id": "traditional-nativity",
+    "name": "The Bethlehem Nativity",
+    "price": 42,
+    "category": "Nativities",
+    "image": "assets/traditional-nativity.webp",
+    "description": "A traditional nativity scene to set out with your Christmas decorations.",
+    "details": [
+      "Resin nativity set",
+      "5.5-inch option shown in supplier listing",
+      "Final included pieces to be confirmed"
+    ],
+    "tag": "Nativities",
+    "ageGroups": [
+      "Adults 18–64",
+      "Seniors 65+",
+      "Family home"
+    ],
+    "recipientAge": 65,
+    "primaryAge": "Seniors 65+"
+  },
+  {
+    "id": "red-wood-rosary",
+    "name": "Crimson Wood Rosary",
+    "price": 12,
+    "category": "Prayer gifts",
+    "image": "assets/red-wood-rosary.webp",
+    "description": "Crimson beads with a silver-tone crucifix for daily prayer.",
+    "details": [
+      "Wood beads with zinc-alloy metalwork",
+      "Silver-tone finish, not solid silver",
+      "Not represented as blessed"
+    ],
+    "tag": "Prayer gifts",
+    "ageGroups": [
+      "Adults 18–64",
+      "Seniors 65+",
+      "Family home"
+    ],
+    "recipientAge": 65,
+    "primaryAge": "Seniors 65+"
+  },
+  {
+    "id": "advent-wreath",
+    "name": "Evergreen Advent Wreath",
+    "price": 22,
+    "category": "Tree & home",
+    "image": "assets/advent-wreath.webp",
+    "description": "An Advent candle holder surrounded by greenery, ready for a place on the table.",
+    "details": [
+      "Metal holder with artificial greenery",
+      "Selected design and candle fit to be confirmed",
+      "Candles are not assumed included; keep flames clear of greenery"
+    ],
+    "tag": "Tree & home",
+    "ageGroups": [
+      "Adults 18–64",
+      "Seniors 65+",
+      "Family home"
+    ],
+    "recipientAge": 18,
+    "primaryAge": "Adults 18–64"
+  },
+  {
+    "id": "jesus-saves-neon",
+    "name": "Jesus Saves Cross Neon",
+    "price": 49,
+    "category": "Lights & neon",
+    "image": "assets/jesus-saves-neon.webp",
+    "description": "A cross neon sign with “Jesus Saves” lettering. Hang it where the words are easy to see.",
+    "details": [
+      "LED neon-style Jesus Saves sign",
+      "Confirm selected design, dimensions and power supply"
+    ],
+    "tag": "Lights & neon",
+    "ageGroups": [
+      "Teens 13–17",
+      "Adults 18–64",
+      "Family home"
+    ],
+    "recipientAge": 13,
+    "primaryAge": "Teens 13–17"
+  },
+  {
+    "id": "nativity-music-box",
+    "name": "Bethlehem Music Box",
+    "price": 48,
+    "category": "Prayer gifts",
+    "image": "assets/nativity-music-box.webp",
+    "description": "A wooden music box with a nativity design for your Christmas display.",
+    "details": [
+      "Beech wood, wind-up mechanism per listing",
+      "Listed size option: 15.6 × 11.5 × 14.5 cm",
+      "Nativity variant and melody to be confirmed"
+    ],
+    "tag": "Prayer gifts",
+    "ageGroups": [
+      "Adults 18–64",
+      "Seniors 65+",
+      "Family home"
+    ],
+    "recipientAge": 18,
+    "primaryAge": "Adults 18–64"
+  },
+  {
+    "id": "praying-hands-neon",
+    "name": "Praying Hands neon sign",
+    "price": 49,
+    "category": "Lights & neon",
+    "image": "assets/praying-hands-neon.webp",
+    "description": "A neon sign shaped like praying hands for a wall in your room or prayer space.",
+    "details": [
+      "Acrylic; 5V; white and blue; 29.9 × 33cm."
+    ],
+    "tag": "Lights & neon",
+    "ageGroups": [
+      "Teens 13–17",
+      "Adults 18–64",
+      "Family home"
+    ],
+    "recipientAge": 13,
+    "primaryAge": "Teens 13–17"
+  },
+  {
+    "id": "holy-family-tree-ornament",
+    "name": "Holy Family Keepsake Ornament",
+    "price": 12.95,
+    "category": "Tree & home",
+    "image": "assets/holy-family-tree-ornament.webp",
+    "description": "A Holy Family ornament to hang on the Christmas tree.",
+    "details": [
+      "Polyresin",
+      "Model YS564",
+      "2.5 inches wide × 3 inches high"
+    ],
+    "tag": "Tree & home",
+    "ageGroups": [
+      "Adults 18–64",
+      "Seniors 65+",
+      "Family home"
+    ],
+    "recipientAge": 18,
+    "primaryAge": "Adults 18–64"
+  },
+  {
+    "id": "pearl-rose-rosary",
+    "name": "Pearl & Rose Rosary",
+    "price": 19,
+    "category": "Prayer gifts",
+    "image": "assets/pearl-rose-rosary.webp",
+    "description": "A rosary with pearl-style beads and rose details for someone who likes a decorative design.",
+    "details": [
+      "6mm glass pearl beads; metal rose details"
+    ],
+    "tag": "Prayer gifts",
+    "ageGroups": [
+      "Teens 13–17",
+      "Adults 18–64",
+      "Seniors 65+"
+    ],
+    "recipientAge": 65,
+    "primaryAge": "Seniors 65+"
+  },
+  {
+    "id": "wood-nativity-countdown",
+    "name": "Journey to Bethlehem Wooden Countdown",
+    "price": 24.95,
+    "category": "Family gifts",
+    "image": "assets/wood-nativity-countdown.webp",
+    "description": "A wooden Bethlehem countdown to follow with the family as Christmas gets closer.",
+    "details": [
+      "Wood",
+      "21.6 × 30 cm option",
+      "Model CT-202508272"
+    ],
+    "tag": "Family gifts",
+    "ageGroups": [
+      "Children 6–12",
+      "Teens 13–17",
+      "Family home"
+    ],
+    "recipientAge": 6,
+    "primaryAge": "Children 6–12"
+  },
+  {
+    "id": "faith-over-fear-neon",
+    "name": "Faith Over Fear neon sign",
+    "price": 59,
+    "category": "Lights & neon",
+    "image": "assets/faith-over-fear-neon.webp",
+    "description": "“Faith Over Fear” lettering in a neon-style wall sign.",
+    "details": [
+      "Dimmable; USB-powered; wall mount."
+    ],
+    "tag": "Lights & neon",
+    "ageGroups": [
+      "Teens 13–17",
+      "Adults 18–64",
+      "Family home"
+    ],
+    "recipientAge": 13,
+    "primaryAge": "Teens 13–17"
+  },
+  {
+    "id": "nativity-lantern",
+    "name": "Holy Night Lantern",
+    "price": 34,
+    "category": "Tree & home",
+    "image": "assets/nativity-lantern.webp",
+    "description": "A lantern-shaped snow globe with a nativity scene inside.",
+    "details": [
+      "Nativity snow globe lantern",
+      "Listed size: 10.5 × 10.5 × 23 cm",
+      "Power and selected finish to be confirmed"
+    ],
+    "tag": "Tree & home",
+    "ageGroups": [
+      "Adults 18–64",
+      "Seniors 65+",
+      "Family home"
+    ],
+    "recipientAge": 18,
+    "primaryAge": "Adults 18–64"
+  },
+  {
+    "id": "solar-nativity",
+    "name": "Holy Family Garden Light",
+    "price": 28,
+    "category": "Tree & home",
+    "image": "assets/solar-nativity.webp",
+    "description": "A Holy Family display with a solar light. Check the final outdoor-use specifications before placing it outside.",
+    "details": [
+      "Resin with solar-powered light",
+      "Outdoor specifications require sample testing"
+    ],
+    "tag": "Tree & home",
+    "ageGroups": [
+      "Adults 18–64",
+      "Seniors 65+",
+      "Family home"
+    ],
+    "recipientAge": 18,
+    "primaryAge": "Adults 18–64"
+  },
+  {
+    "id": "nativity-cross",
+    "name": "Woodland Nativity Cross",
+    "price": 18,
+    "category": "Tree & home",
+    "image": "assets/nativity-cross.webp",
+    "description": "A wooden hanging cross featuring the nativity scene.",
+    "details": [
+      "Cut-wood hanging cross",
+      "Listed size: 22.6 × 16.1 × 2.2 cm",
+      "A larger hanging decoration"
+    ],
+    "tag": "Tree & home",
+    "ageGroups": [
+      "Adults 18–64",
+      "Seniors 65+",
+      "Family home"
+    ],
+    "recipientAge": 18,
+    "primaryAge": "Adults 18–64"
+  },
+  {
+    "id": "i-saw-jesus",
+    "name": "I Saw That Jesus neon sign",
+    "price": 44,
+    "category": "Lights & neon",
+    "image": "assets/i-saw-jesus.webp",
+    "description": "The “I Saw That” Jesus sign: a more playful choice for someone with a sense of humor.",
+    "details": [
+      "USB-powered; dimmable; 3D-printed Jesus design."
+    ],
+    "tag": "Lights & neon",
+    "ageGroups": [
+      "Teens 13–17",
+      "Adults 18–64",
+      "Family home"
+    ],
+    "recipientAge": 13,
+    "primaryAge": "Teens 13–17"
+  },
+  {
+    "id": "first-communion-neon",
+    "name": "First Communion cross neon sign",
+    "price": 69,
+    "category": "Lights & neon",
+    "image": "assets/first-communion-neon.webp",
+    "description": "A First Communion cross sign for a celebration display or photo backdrop.",
+    "details": [
+      "Acrylic LED; 12V; listed length 85cm; dimmable."
+    ],
+    "tag": "Lights & neon",
+    "ageGroups": [
+      "Teens 13–17",
+      "Adults 18–64",
+      "Family home"
+    ],
+    "recipientAge": 13,
+    "primaryAge": "Teens 13–17"
+  },
+  {
+    "id": "jesus-is-king-neon",
+    "name": "Jesus Is King neon sign",
+    "price": 79,
+    "category": "Lights & neon",
+    "image": "assets/jesus-is-king-neon.webp",
+    "description": "A neon-style sign spelling out “Jesus Is King” for your wall.",
+    "details": [
+      "Dimmable USB LED sign; 33 × 32cm; clear acrylic backing."
+    ],
+    "tag": "Lights & neon",
+    "ageGroups": [
+      "Teens 13–17",
+      "Adults 18–64",
+      "Family home"
+    ],
+    "recipientAge": 13,
+    "primaryAge": "Teens 13–17"
+  },
+  {
+    "id": "jesus-acrylic-lamp",
+    "name": "Jesus acrylic night light",
+    "price": 22,
+    "category": "Lights & neon",
+    "image": "assets/jesus-acrylic-lamp.webp",
+    "description": "An acrylic Jesus lamp for a bedside table, desk, or prayer corner.",
+    "details": [
+      "3D-pattern acrylic; 5V USB; warm white; switch control."
+    ],
+    "tag": "Lights & neon",
+    "ageGroups": [
+      "Teens 13–17",
+      "Adults 18–64",
+      "Family home"
+    ],
+    "recipientAge": 13,
+    "primaryAge": "Teens 13–17"
+  },
+  {
+    "id": "mary-jesus-light-painting",
+    "name": "Mary & Jesus illuminated picture",
+    "price": 32,
+    "category": "Lights & neon",
+    "image": "assets/mary-jesus-light-painting.webp",
+    "description": "An illuminated picture of Mary and Jesus for a devotional display.",
+    "details": [
+      "Wood and acrylic; UV-printed religious picture with LED lighting."
+    ],
+    "tag": "Lights & neon",
+    "ageGroups": [
+      "Teens 13–17",
+      "Adults 18–64",
+      "Family home"
+    ],
+    "recipientAge": 13,
+    "primaryAge": "Teens 13–17"
+  },
+  {
+    "id": "levitating-cross",
+    "name": "Levitating cross lamp",
+    "price": 69,
+    "category": "Lights & neon",
+    "image": "assets/levitating-cross.webp",
+    "description": "A floating cross lamp with a levitating display design. See the supplier specifications for setup requirements.",
+    "details": [
+      "Magnetic floating cross with LED-lit base."
+    ],
+    "tag": "Lights & neon",
+    "ageGroups": [
+      "Teens 13–17",
+      "Adults 18–64",
+      "Family home"
+    ],
+    "recipientAge": 13,
+    "primaryAge": "Teens 13–17"
+  },
+  {
+    "id": "wood-base-cross-lamp",
+    "name": "Wood-base cross night light",
+    "price": 29,
+    "category": "Lights & neon",
+    "image": "assets/wood-base-cross-lamp.webp",
+    "description": "A cross night light on a wooden base for a shelf or bedside table.",
+    "details": [
+      "Model YNN150N004; wood base; LED; USB; custom acrylic sheet."
+    ],
+    "tag": "Lights & neon",
+    "ageGroups": [
+      "Teens 13–17",
+      "Adults 18–64",
+      "Family home"
+    ],
+    "recipientAge": 13,
+    "primaryAge": "Teens 13–17"
+  },
+  {
+    "id": "wood-jesus-stand-lamp",
+    "name": "Jesus stand night light",
+    "price": 29,
+    "category": "Lights & neon",
+    "image": "assets/wood-jesus-stand-lamp.webp",
+    "description": "A standing Jesus night light with a wooden design for a tabletop display.",
+    "details": [
+      "Model YNN150N03; wooden Jesus stand; LED; USB."
+    ],
+    "tag": "Lights & neon",
+    "ageGroups": [
+      "Teens 13–17",
+      "Adults 18–64",
+      "Family home"
+    ],
+    "recipientAge": 13,
+    "primaryAge": "Teens 13–17"
+  },
+  {
+    "id": "crystal-jesus-cross-lamp",
+    "name": "Crystal Jesus cross light",
+    "price": 26,
+    "category": "Lights & neon",
+    "image": "assets/crystal-jesus-cross-lamp.webp",
+    "description": "A crystal-style light featuring Jesus and the cross.",
+    "details": [
+      "3D Jesus cross crystal statue with colored LED lamp holder."
+    ],
+    "tag": "Lights & neon",
+    "ageGroups": [
+      "Teens 13–17",
+      "Adults 18–64",
+      "Family home"
+    ],
+    "recipientAge": 13,
+    "primaryAge": "Teens 13–17"
+  },
+  {
+    "id": "ceramic-holy-family-light",
+    "name": "Ceramic Holy Family light",
+    "price": 24,
+    "category": "Lights & neon",
+    "image": "assets/ceramic-holy-family-light.webp",
+    "description": "A ceramic Holy Family light for your Christmas table or mantel.",
+    "details": [
+      "Ceramic Holy Family with LED light; 10.7 × 8.2 × 13.2cm."
+    ],
+    "tag": "Lights & neon",
+    "ageGroups": [
+      "Teens 13–17",
+      "Adults 18–64",
+      "Family home"
+    ],
+    "recipientAge": 13,
+    "primaryAge": "Teens 13–17"
+  },
+  {
+    "id": "nativity-water-lantern",
+    "name": "Holy Family water lantern",
+    "price": 49,
+    "category": "Lights & neon",
+    "image": "assets/nativity-water-lantern.webp",
+    "description": "A water-filled lantern with a Holy Family scene inside.",
+    "details": [
+      "Holy Family scene; warm white LED candle; swirling water lantern."
+    ],
+    "tag": "Lights & neon",
+    "ageGroups": [
+      "Teens 13–17",
+      "Adults 18–64",
+      "Family home"
+    ],
+    "recipientAge": 13,
+    "primaryAge": "Teens 13–17"
+  },
+  {
+    "id": "angel-crystal-light",
+    "name": "Angel crystal candle light",
+    "price": 24,
+    "category": "Lights & neon",
+    "image": "assets/angel-crystal-light.webp",
+    "description": "An angel-themed crystal-style light for a shelf or Christmas display.",
+    "details": [
+      "Laser-engraved K9 optical crystal; Angel design; 50 × 50 × 80mm."
+    ],
+    "tag": "Lights & neon",
+    "ageGroups": [
+      "Teens 13–17",
+      "Adults 18–64",
+      "Family home"
+    ],
+    "recipientAge": 13,
+    "primaryAge": "Teens 13–17"
+  },
+  {
+    "id": "hematite-rosary",
+    "name": "Hematite Prayer Rosary",
+    "price": 22,
+    "category": "Prayer gifts",
+    "image": "assets/hematite-rosary.webp",
+    "description": "A hematite-style rosary with dark beads for a more understated look.",
+    "details": [
+      "Hematite beads; crucifix design"
+    ],
+    "tag": "Prayer gifts",
+    "ageGroups": [
+      "Adults 18–64",
+      "Seniors 65+"
+    ],
+    "recipientAge": 65,
+    "primaryAge": "Seniors 65+"
+  },
+  {
+    "id": "wedding-lasso-rosary",
+    "name": "Wedding Lasso Rosary",
+    "price": 34,
+    "category": "Prayer gifts",
+    "image": "assets/wedding-lasso-rosary.webp",
+    "description": "A wedding lasso rosary for couples including this tradition in their ceremony.",
+    "details": [
+      "Glass and alloy; wedding lasso style"
+    ],
+    "tag": "Prayer gifts",
+    "ageGroups": [
+      "Adults 18–64",
+      "Seniors 65+"
+    ],
+    "recipientAge": 18,
+    "primaryAge": "Adults 18–64"
+  },
+  {
+    "id": "benedict-cord-bracelet",
+    "name": "St. Benedict Cord Bracelet",
+    "price": 14,
+    "category": "Prayer gifts",
+    "image": "assets/benedict-cord-bracelet.webp",
+    "description": "A cord bracelet featuring St. Benedict medals.",
+    "details": [
+      "Adjustable cord; St. Benedict medal"
+    ],
+    "tag": "Prayer gifts",
+    "ageGroups": [
+      "Teens 13–17",
+      "Adults 18–64",
+      "Seniors 65+"
+    ],
+    "recipientAge": 18,
+    "primaryAge": "Adults 18–64"
+  },
+  {
+    "id": "sterling-benedict-medal",
+    "name": "Sterling St. Benedict Pendant",
+    "price": 69,
+    "category": "Prayer gifts",
+    "image": "assets/sterling-benedict-medal.webp",
+    "description": "A St. Benedict pendant listed by the supplier as sterling silver. Metal content still needs verification.",
+    "details": [
+      "925 sterling silver; selected design shown without chain"
+    ],
+    "tag": "Prayer gifts",
+    "ageGroups": [
+      "Adults 18–64",
+      "Seniors 65+"
+    ],
+    "recipientAge": 18,
+    "primaryAge": "Adults 18–64"
+  },
+  {
+    "id": "vintage-crucifix-necklace",
+    "name": "Vintage Crucifix Necklace",
+    "price": 25,
+    "category": "Prayer gifts",
+    "image": "assets/vintage-crucifix-necklace.webp",
+    "description": "A crucifix necklace with a vintage-style design.",
+    "details": [
+      "316L stainless steel; gold-tone crucifix"
+    ],
+    "tag": "Prayer gifts",
+    "ageGroups": [
+      "Teens 13–17",
+      "Adults 18–64",
+      "Seniors 65+"
+    ],
+    "recipientAge": 18,
+    "primaryAge": "Adults 18–64"
+  },
+  {
+    "id": "rosary-ring",
+    "name": "Everyday Rosary Ring",
+    "price": 24,
+    "category": "Prayer gifts",
+    "image": "assets/rosary-ring.webp",
+    "description": "A rosary ring for keeping track of prayers without carrying a full set of beads.",
+    "details": [
+      "Cross motif with prayer-counting bead detail; confirm chosen metal"
+    ],
+    "tag": "Prayer gifts",
+    "ageGroups": [
+      "Teens 13–17",
+      "Adults 18–64",
+      "Seniors 65+"
+    ],
+    "recipientAge": 18,
+    "primaryAge": "Adults 18–64"
+  },
+  {
+    "id": "icon-rosary-pouch",
+    "name": "Icon Rosary Pouch",
+    "price": 12,
+    "category": "Prayer gifts",
+    "image": "assets/icon-rosary-pouch.webp",
+    "description": "A religious-icon pouch to keep your rosary together in a bag or drawer.",
+    "details": [
+      "Custom Catholic rosary pouch; model 0526"
+    ],
+    "tag": "Prayer gifts",
+    "ageGroups": [
+      "Teens 13–17",
+      "Adults 18–64",
+      "Seniors 65+"
+    ],
+    "recipientAge": 18,
+    "primaryAge": "Adults 18–64"
+  },
+  {
+    "id": "mary-mini-pouch",
+    "name": "Our Lady Mini Pouch",
+    "price": 11,
+    "category": "Prayer gifts",
+    "image": "assets/mary-mini-pouch.webp",
+    "description": "A small pouch featuring Our Lady for a rosary or other small devotional items.",
+    "details": [
+      "Virgin Mary themed prayer-bead storage pouch"
+    ],
+    "tag": "Prayer gifts",
+    "ageGroups": [
+      "Teens 13–17",
+      "Adults 18–64",
+      "Seniors 65+"
+    ],
+    "recipientAge": 18,
+    "primaryAge": "Adults 18–64"
+  },
+  {
+    "id": "zip-rosary-case",
+    "name": "Rosary Travel Zip Case",
+    "price": 15,
+    "category": "Prayer gifts",
+    "image": "assets/zip-rosary-case.webp",
+    "description": "A zippered case to keep a rosary contained while traveling.",
+    "details": [
+      "Zipper bag for rosary storage; multiple patterns"
+    ],
+    "tag": "Prayer gifts",
+    "ageGroups": [
+      "Teens 13–17",
+      "Adults 18–64",
+      "Seniors 65+"
+    ],
+    "recipientAge": 18,
+    "primaryAge": "Adults 18–64"
+  },
+  {
+    "id": "icon-tin-rosary-case",
+    "name": "Keepsake Rosary Tin",
+    "price": 12,
+    "category": "Prayer gifts",
+    "image": "assets/icon-tin-rosary-case.webp",
+    "description": "A decorated tin for storing a rosary between uses.",
+    "details": [
+      "Catholic icon mini zipper tin box"
+    ],
+    "tag": "Prayer gifts",
+    "ageGroups": [
+      "Teens 13–17",
+      "Adults 18–64",
+      "Seniors 65+"
+    ],
+    "recipientAge": 18,
+    "primaryAge": "Adults 18–64"
+  },
+  {
+    "id": "bible-carry-cover",
+    "name": "Bible Carry Cover",
+    "price": 29,
+    "category": "Prayer gifts",
+    "image": "assets/bible-carry-cover.webp",
+    "description": "A carry cover for taking your Bible with you. Check the dimensions against your edition before choosing.",
+    "details": [
+      "Bible cover with handle and back pocket; confirm material and fit"
+    ],
+    "tag": "Prayer gifts",
+    "ageGroups": [
+      "Adults 18–64",
+      "Seniors 65+"
+    ],
+    "recipientAge": 18,
+    "primaryAge": "Adults 18–64"
+  },
+  {
+    "id": "sideways-cross-necklace",
+    "name": "Petite Sideways Cross Necklace",
+    "price": 21,
+    "category": "Prayer gifts",
+    "image": "assets/sideways-cross-necklace.webp",
+    "description": "A necklace with a small sideways cross for someone who prefers simpler jewelry.",
+    "details": [
+      "316L stainless steel; small horizontal cross; model MJN20118"
+    ],
+    "tag": "Prayer gifts",
+    "ageGroups": [
+      "Teens 13–17",
+      "Adults 18–64",
+      "Seniors 65+"
+    ],
+    "recipientAge": 18,
+    "primaryAge": "Adults 18–64"
+  },
+  {
+    "id": "divine-mercy-rosary",
+    "name": "Madonna of the Stars Rosary",
+    "price": 19,
+    "category": "Prayer gifts",
+    "image": "assets/divine-mercy-rosary.webp",
+    "description": "A Madonna of the Stars rosary with a devotional centerpiece.",
+    "details": [
+      "6mm glass imitation pearls; oxidized Madonna with Stars center; 20 inches"
+    ],
+    "tag": "Prayer gifts",
+    "ageGroups": [
+      "Teens 13–17",
+      "Adults 18–64",
+      "Seniors 65+"
+    ],
+    "recipientAge": 65,
+    "primaryAge": "Seniors 65+"
+  },
+  {
+    "id": "sequined-glass-angel",
+    "name": "Golden Glass Angel Ornament",
+    "price": 9.95,
+    "category": "Tree & home",
+    "image": "assets/sequined-glass-angel.webp",
+    "description": "A gold-decorated glass angel ornament for the Christmas tree.",
+    "details": [
+      "Glass",
+      "3 × 3 × 4 cm",
+      "Gold-colored option"
+    ],
+    "tag": "Tree & home",
+    "ageGroups": [
+      "Adults 18–64",
+      "Seniors 65+",
+      "Family home"
+    ],
+    "recipientAge": 65,
+    "primaryAge": "Seniors 65+"
+  },
+  {
+    "id": "lighted-spun-glass-angel",
+    "name": "Lighted Spun Glass Angel",
+    "price": 24.95,
+    "category": "Tree & home",
+    "image": "assets/lighted-spun-glass-angel.webp",
+    "description": "A lighted spun-glass angel for your Christmas decorations.",
+    "details": [
+      "Blown glass",
+      "Lighted angel design",
+      "Jiangsu, China"
+    ],
+    "tag": "Tree & home",
+    "ageGroups": [
+      "Adults 18–64",
+      "Seniors 65+",
+      "Family home"
+    ],
+    "recipientAge": 65,
+    "primaryAge": "Seniors 65+"
+  },
+  {
+    "id": "led-nativity-three",
+    "name": "Little Light Nativity Display",
+    "price": 27.95,
+    "category": "Nativities",
+    "image": "assets/led-nativity-three.webp",
+    "description": "A small illuminated nativity display for a shelf or side table.",
+    "details": [
+      "Polyresin and plastic",
+      "Battery power",
+      "Model RO-041",
+      "11 × 6.2 × 12 cm listed"
+    ],
+    "tag": "Nativities",
+    "ageGroups": [
+      "Adults 18–64",
+      "Seniors 65+",
+      "Family home"
+    ],
+    "recipientAge": 18,
+    "primaryAge": "Adults 18–64"
+  },
+  {
+    "id": "seven-piece-nativity",
+    "name": "Seven-Figure Nativity Sculpture",
+    "price": 44.95,
+    "category": "Nativities",
+    "image": "assets/seven-piece-nativity.webp",
+    "description": "A seven-figure nativity sculpture for a Christmas display.",
+    "details": [
+      "Seven-piece nativity",
+      "Tabletop figurines",
+      "China supplier"
+    ],
+    "tag": "Nativities",
+    "ageGroups": [
+      "Adults 18–64",
+      "Seniors 65+",
+      "Family home"
+    ],
+    "recipientAge": 65,
+    "primaryAge": "Seniors 65+"
+  },
+  {
+    "id": "realfine-nativity",
+    "name": "Traditional Resin Nativity Figurines",
+    "price": 19.95,
+    "category": "Nativities",
+    "image": "assets/realfine-nativity.webp",
+    "description": "Traditional resin nativity figures to arrange at home for Christmas.",
+    "details": [
+      "Polyresin",
+      "Model RF00067A",
+      "Fujian, China"
+    ],
+    "tag": "Nativities",
+    "ageGroups": [
+      "Adults 18–64",
+      "Seniors 65+",
+      "Family home"
+    ],
+    "recipientAge": 65,
+    "primaryAge": "Seniors 65+"
+  },
+  {
+    "id": "paint-your-nativity",
+    "name": "Paint Your Own Ceramic Nativity",
+    "price": 24.95,
+    "category": "Family gifts",
+    "image": "assets/paint-your-nativity.webp",
+    "description": "A ceramic nativity painting activity to do together. Children should take part with adult supervision.",
+    "details": [
+      "Unpainted ceramic bisque",
+      "Nativity design",
+      "Paints not confirmed included"
+    ],
+    "tag": "Family gifts",
+    "ageGroups": [
+      "Children 6–12",
+      "Teens 13–17",
+      "Family home"
+    ],
+    "recipientAge": 6,
+    "primaryAge": "Children 6–12"
+  },
+  {
+    "id": "white-angel-candle-holder",
+    "name": "White Angel Tealight Holder",
+    "price": 14.95,
+    "category": "Tree & home",
+    "image": "assets/white-angel-candle-holder.webp",
+    "description": "A white angel-shaped holder for a tealight.",
+    "details": [
+      "Ceramic",
+      "Model CT1375",
+      "8.3 × 6.8 × 10.9 cm listed"
+    ],
+    "tag": "Tree & home",
+    "ageGroups": [
+      "Adults 18–64",
+      "Seniors 65+",
+      "Family home"
+    ],
+    "recipientAge": 18,
+    "primaryAge": "Adults 18–64"
+  },
+  {
+    "id": "porcelain-angel-candle-holder",
+    "name": "Porcelain Angel Candle Stand",
+    "price": 22.95,
+    "category": "Tree & home",
+    "image": "assets/porcelain-angel-candle-holder.webp",
+    "description": "A porcelain angel candle stand for a table or mantel.",
+    "details": [
+      "Porcelain and enamel",
+      "Model YH0463",
+      "Dehua, China"
+    ],
+    "tag": "Tree & home",
+    "ageGroups": [
+      "Adults 18–64",
+      "Seniors 65+",
+      "Family home"
+    ],
+    "recipientAge": 65,
+    "primaryAge": "Seniors 65+"
+  },
+  {
+    "id": "beautyrich-nativity",
+    "name": "Six-Inch Holy Family Nativity",
+    "price": 34.95,
+    "category": "Nativities",
+    "image": "assets/beautyrich-nativity.webp",
+    "description": "A six-inch Holy Family figure for smaller Christmas displays.",
+    "details": [
+      "Resin",
+      "6.25-inch title",
+      "Fujian, China"
+    ],
+    "tag": "Nativities",
+    "ageGroups": [
+      "Adults 18–64",
+      "Seniors 65+",
+      "Family home"
+    ],
+    "recipientAge": 65,
+    "primaryAge": "Seniors 65+"
+  },
+  {
+    "id": "ceramic-holy-water-font",
+    "name": "Ceramic Devotional Water Font",
+    "price": 21,
+    "category": "Tree & home",
+    "image": "assets/ceramic-holy-water-font.webp",
+    "description": "A ceramic holy water font for a devotional space at home.",
+    "details": [
+      "Ceramic hanging holy water font",
+      "Selected religious motif requires confirmation",
+      "Holy water is not included"
+    ],
+    "tag": "Tree & home",
+    "ageGroups": [
+      "Adults 18–64",
+      "Seniors 65+",
+      "Family home"
+    ],
+    "recipientAge": 65,
+    "primaryAge": "Seniors 65+"
+  }
+]
